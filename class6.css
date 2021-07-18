@@ -1,0 +1,30 @@
+.a {
+    display: inline; /* the default for p */
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue;  
+    background-color: yellow; 
+    margin: 10px
+  }
+  
+p.b {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    padding: 50px;
+    border: 1px solid blue;    
+    background-color:yellow; 
+    margin: 10px
+  }
+  
+p.c {
+    display: block;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue;    
+    background-color: rgb(255, 255, 0); 
+    margin: 10px
+  }
